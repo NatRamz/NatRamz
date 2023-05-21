@@ -20,7 +20,7 @@
 ### :woman_technologist: About Me :
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-:telescope: I’m in search for job asb Data Analyst right now.
+:telescope: I’m in search for job as Data Analyst right now.
 
 :seedling: Exploring A/B tests.
 
